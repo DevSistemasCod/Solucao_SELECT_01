@@ -15,7 +15,7 @@ SELECT ROUND(AVG(salario), 2) AS media_salarial FROM funcionario;
 
 -- 5) Encontre funcionários cujo nome contém "Silva".
 SELECT nome_funcionario FROM funcionario
-WHERE nome_funcionario LIKE '%Silva%';
+WHERE nome_funcionario LIKE '%Gomes%';
 
 -- 6) Calcule o salário anual de todos os funcionários.
 SELECT nome_funcionario, salario * 12 AS salario_anual FROM funcionario;
