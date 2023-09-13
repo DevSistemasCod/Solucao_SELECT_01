@@ -40,7 +40,7 @@ SELECT sigla_projeto, nome_projeto
 FROM projeto ORDER BY nome_projeto DESC;
 
 -- 12)  Considere que a tabela funcionário precisa ser alterada, será necessário
-adicionar a coluna data_admissao (tipo date), salario (tipo decimal com até duas casas de precisão) 
+-- adicionar a coluna data_admissao (tipo date), salario (tipo decimal com até duas casas de precisão) 
 ALTER TABLE funcionario ADD COLUMN data_admissao DATE,
 ADD COLUMN salario DECIMAL(10, 2); 
  
