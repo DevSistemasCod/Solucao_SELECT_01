@@ -1,7 +1,7 @@
 -- USO DE SELECT
 
 -- 01) Selecione o nome e siglas da tabela departamento;
-SELECT sigla_depto, nome_depto FROM funcionario;
+SELECT sigla_depto, nome_depto FROM departamento;
 
 -- 02) Selecione sigla e nome dos departamentos de forma não repetida.
 SELECT DISTINCT sigla_depto, nome_depto FROM departamento;
