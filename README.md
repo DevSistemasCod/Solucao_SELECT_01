@@ -19,4 +19,19 @@ SELECT I
 
 
 SELECT II 
+1) Selecione todos os funcionários (sem repetição) com seus respectivos cargos em ordem alfabética descendente.
+
+2) Selecione todos os nomes dos departamentos com suas respectivas siglas em ordem alfabética ascendente
+
+3) Selecione todos os projetos em ordem alfabética descendente com base em seus nomes.
+
+4) Liste as siglas dos departamentos e a contagem de funcionários em cada departamento.
+
+5) Liste as siglas dos departamentos com mais de 3 funcionários.
+
+6)Liste os 3 funcionários com os menores salários em ordem decrescente
+
+7) Liste os departamentos com a maior contagem de funcionários, ordenados em ordem decrescente, mostrando apenas os 3 primeiros.
+
+8) Liste os departamentos e a quantidade de funcionários em cada departamento que têm um salário médio superior a 3790.
 
